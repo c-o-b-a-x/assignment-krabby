@@ -21,15 +21,13 @@ function get_profit() {
       const orders = JSON.parse(orderData);
       let totalProfit = 0;
 
-      // Loop through each order
       for (const order of orders) {
         for (const soldItem of order.items) {
-          // Loop through costs manually
           for (const costItem of costs) {
             if (costItem.name === soldItem.name) {
               totalProfit +=
                 (costItem.price - costItem.procure) * soldItem.quantity;
-              break; // stop looping once we found a match
+              break;
             }
           }
         }
