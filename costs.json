@@ -1,0 +1,6 @@
+[
+    {"name": "Krabby Patty", "price": 9.99, "procure": 4.35},
+    {"name": "Jellyfish Net", "price": 19.99, "procure": 9.95},
+    {"name": "Barnacle Boy Action Figure", "price": 29.99, "procure": 14.75},
+    {"name": "Golden Spatula", "price": 99.99, "procure": 57.83}
+]

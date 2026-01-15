@@ -1,0 +1,32 @@
+[
+  {
+    "name": "SpongeBob SquarePants",
+    "items": [
+      { "name": "Krabby Patty", "quantity": 10 },
+      { "name": "Barnacle Boy Action Figure", "quantity": 2 }
+    ]
+  },
+  {
+    "name": "Patrick Star",
+    "items": [
+      { "name": "Jellyfish Net", "quantity": 3 },
+      { "name": "Golden Spatula", "quantity": 1 }
+    ]
+  },
+  {
+    "name": "Sandy Cheeks",
+    "items": [
+      { "name": "Krabby Patty", "quantity": 5 },
+      { "name": "Jellyfish Net", "quantity": 1 },
+      { "name": "Barnacle Boy Action Figure", "quantity": 1 },
+      { "name": "Golden Spatula", "quantity": 1 }
+    ]
+  },
+  {
+    "name": "Squidward Tentacles",
+    "items": [
+      { "name": "Krabby Patty", "quantity": 2 },
+      { "name": "Jellyfish Net", "quantity": 1 }
+    ]
+  }
+]
